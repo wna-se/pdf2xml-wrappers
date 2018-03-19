@@ -4,9 +4,9 @@ A simple Ruby/Python wrapper for the command line utility pdftoxml to parse the 
 
 `pdf2otxt.[py|rb] [-h] -f PDF_FILE -o TXT_PATTERN [-p PDFTOXML]`
 
------------------------------------------------------------------------------------
-| optional arguments                             | description                    |
------------------------------------------------------------------------------------
+
+| optional arguments                            | description                     |
+|-----------------------------------------------|---------------------------------|
 |  -h, --help                                   | show this help message and exit |
 |  -f PDF_FILE, --input-file PDF_FILE           | read PDF from PDF_FILE          |
 |  -o TXT_PATTERN, --output-pattern TXT_PATTERN | write text to TXT_PATTERN       |
